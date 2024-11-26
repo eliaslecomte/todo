@@ -36,6 +36,15 @@
     ],
     "experiments": {
       "typedRoutes": true
-    }
+    },
+    "extra": {
+      "router": {
+        "origin": false
+      },
+      "eas": {
+        "projectId": "7cb0ebb4-ab0d-43f7-81c6-61029d17e610"
+      }
+    },
+    "owner": "eliaslecomte-org"
   }
 }
